@@ -20,9 +20,9 @@
 | **Date Modified**        | --                                                        |
 | **Platform**             | Website                                                   |
 | **Channel**              | [Boot.dev](https://www.boot.dev/lessons) |
-| **Version**              | 0.01.00                                                     |
-| **Programmer / Student** | **Eric L. Hepperle**                                         |
-| **AI Assistance**: | ChatGPT, Perplexity |
+| **Version**              | 0.01.00                                  |
+| **Programmer / Student** | **Eric L. Hepperle**                     |
+| **AI Assistance**:       | ChatGPT, Perplexity                      |
 
 * **Course URL:** https://www.boot.dev/lessons/78b4646f-85aa-42c7-ba46-faec2f0902a9
 
